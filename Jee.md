@@ -5,3 +5,4 @@ Tämä onkin todella hyödyllistä kun web-liittymällä voidaan lisätä täll�
 Näin totta vie on!
 Mutta vähän pitää miettiä, onko asia todellakin näin?
 No on todellakin. Jos ei olisi, miksi tätä kurssia olisi edes olemassa? Sanopa se!
+Olkaa nyt hiljaa ja keskittykää olennaiseen!!!!!
